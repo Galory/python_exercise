@@ -1,2 +1,2 @@
 # python_exercise
-daily
+Life is short,I use python.
